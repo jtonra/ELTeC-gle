@@ -1,2 +1,2 @@
 # ELTeC-gle
-As many Irish novels as we can find
+Irish novels for the European Literary Text Collection (ELTeC)
