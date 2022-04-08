@@ -23,9 +23,7 @@
             </extent>
             <publicationStmt>
                 <p>First ELTeC edition
-                    <date>
-                        <!-- date of ELTeC publication here -->
-                    </date>
+                    <date when="2022-04-08">08 April 2022</date>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -95,8 +93,10 @@
                     chnámhach, thana, fhada úd an tseanduine ag sgríobhadh go mall is go socair an
                     rann so: -
                 </p>
-                <p>“Gaisgidheach oirdhearc leagtha le feall, Oighreadh aithiseach taca na nGall,
-                    Curadh ag a cháirdibh ceangailte i bpoll, Críoch le treibh tar tuinn anall.”</p>
+                <l>“Gaisgidheach oirdhearc leagtha le feall,</l>
+                <l>Oighreadh aithiseach taca na nGall,</l>
+                <l>Curadh ag a cháirdibh ceangailte i bpoll,</l>
+                <l>Críoch le treibh tar tuinn anall.”</l>
                 <p>Tar éis a chríochnuighthe dhó do thug sé an páipéar do'n bhuachaill is do chuir
                     an cnoc amach de mar dhuine ar ghealtaigh.</p>
                 <p>Do bhí an sgríbhinn rúnach so anois 'na sheilbh ag Cormac, is ní sásda bhí a
@@ -405,36 +405,43 @@
                     chan go fíor-uaigneach an laoidh seo: -
                 </p>
                 <p>SLÁN LE CILL ÁIRNE.</p>
-                <p>Mo ghoin caidé an smúid seo ag dúnadh ar mo chroidhe, Rinn' mo bhalla
-                    neamh-lúthmhar is d'fhúig mé gan brígh, Do ghríosuigh mo shúile le dúthracht
-                    chum caoi, Is an sruth leachta tiugh guirt dá múchadh síorraidhe?</p>
-                <p>Caidé an smuaineadh so chlaoidheas mé ó mhaidin go neón, Is do shior-shuaitheann
-                    m'inntinn le mearbhail bróin? Ag cuimhneamh ar chlaoin-bheartaibh Danar is gó,
-                    Do sgíordann mo shíth uaim gan casadh go deó.</p>
-                <p>Is gorm iad na tonna ar bhruach Locha ghil Léin, 'Sis borb iad do thora-sa, a
-                    Mhuc-rois na n-éan! Is soilbh le cloisint é sonnadh na g-craobh; Acht mo
-                    dhochar! is doilbh dubhach dorcha mé!</p>
-                <p>Tá an t-óg-ghéis go suainmhear ag snámh ar an linn, Is glór glaisí ag gluaiseacht
-                    trí bhántaib ró-bhinn, Tá leóithne ag luasgadh na ngéag n-úr 'san choill, Acht
-                    is ró-bheag mo shuaimhneas gan áthas a bhím!</p>
-                <p>Na sáir-fhir do dhoirt a gcuid fola i dtóir, Is i lán-threas na ngorm-chlaidheamh
-                    gortadh tar fóir - Is sámh é a gcodladh 's is socair fán bhfód, Is mo chrádh is
-                    mo thurrainn ná codlaim-se leó.</p>
-                <p>
-                    <pb n="16"/> 'Sé do chnead chuir i bpéin mé, a thalaimh mo chroidhe, Is do
-                    bhasgadh gan faosamh le haicme seo an fhill, Do ghreadadh is do réabadh le
-                    lasair is claidheamh, Is mo chreach is mé i ngéibhinn, 's gan cneasughadh ar do
-                    dhith.
-                </p>
-                <p>Acht, a chara, glac meanma! - b'fhéidir le Críost Go bpreabfadh chugainn gasradh
-                    'on Ghréig-fhuil úd fhír, Le feartaibh a n-arm gan éislinn, gan teimheal, Ag
-                    treasgairt na nDanar, 's dá léir-chur tar tuinn.</p>
-                <p>Slán, slán leat, a Léin-Loch na bhféith ngorm n-úr, Leanfaidh áilne do sgéimh' mé
-                    go dtéidhead-sa 'san úir, Ná raibh cáim ar do shléibhtibh ná béim ar
-                    duilleabhar, Ciodh fánach i gcéin mé im' thraochadh le búir.</p>
-                <p>A thalaimh na n-éan mbinn, na gcraobh n-úr, gan tlás, Is fada gan réim duit, gan
-                    chéim mar ba ghnáth. Fá sgamall, i ndaor-bhroid, gan chéile, gan pháirt, 'Sé do
-                    chartadh 's do réabadh do léanuigh mo lá.</p>
+                <l>Mo ghoin caidé an smúid seo ag dúnadh ar mo chroidhe,</l>
+                <l>Rinn' mo bhalla neamh-lúthmhar is d'fhúig mé gan brígh,</l>
+                <l>Do ghríosuigh mo shúile le dúthracht chum caoi,</l>
+                <l>Is an sruth leachta tiugh guirt dá múchadh síorraidhe?</l>
+                <l>Caidé an smuaineadh so chlaoidheas mé ó mhaidin go neón,</l>
+                <l>Is do shior-shuaitheann m'inntinn le mearbhail bróin?</l>
+                <l>Ag cuimhneamh ar chlaoin-bheartaibh Danar is gó,</l>
+                <l>Do sgíordann mo shíth uaim gan casadh go deó.</l>
+                <l>Is gorm iad na tonna ar bhruach Locha ghil Léin,</l>
+                <l>'Sis borb iad do thora-sa, a Mhuc-rois na n-éan!</l>
+                <l>Is soilbh le cloisint é sonnadh na g-craobh;</l>
+                <l>Acht mo dhochar! is doilbh dubhach dorcha mé!</l>
+                <l>Tá an t-óg-ghéis go suainmhear ag snámh ar an linn,</l>
+                <l>Is glór glaisí ag gluaiseacht trí bhántaib ró-bhinn,</l>
+                <l>Tá leóithne ag luasgadh na ngéag n-úr 'san choill,</l>
+                <l>Acht is ró-bheag mo shuaimhneas gan áthas a bhím!</l>
+                <l>Na sáir-fhir do dhoirt a gcuid fola i dtóir,</l>
+                <l>Is i lán-threas na ngorm-chlaidheamh gortadh tar fóir -</l>
+                <l>Is sámh é a gcodladh 's is socair fán bhfód,</l>
+                <l>Is mo chrádh is mo thurrainn ná codlaim-se leó.</l>
+                <pb n="16"/>
+                <l>'Sé do chnead chuir i bpéin mé, a thalaimh mo chroidhe,</l>
+                <l>Is do bhasgadh gan faosamh le haicme seo an fhill,</l>
+                <l>Do ghreadadh is do réabadh le lasair is claidheamh,</l>
+                <l>Is mo chreach is mé i ngéibhinn, 's gan cneasughadh ar do dhith.</l>
+                <l>Acht, a chara, glac meanma! - b'fhéidir le Críost</l>
+                <l>Go bpreabfadh chugainn gasradh 'on Ghréig-fhuil úd fhír,</l>
+                <l>Le feartaibh a n-arm gan éislinn, gan teimheal,</l>
+                <l>Ag treasgairt na nDanar, 's dá léir-chur tar tuinn.</l>
+                <l>Slán, slán leat, a Léin-Loch na bhféith ngorm n-úr,</l>
+                <l>Leanfaidh áilne do sgéimh' mé go dtéidhead-sa 'san úir,</l>
+                <l>Ná raibh cáim ar do shléibhtibh ná béim ar duilleabhar,</l>
+                <l>Ciodh fánach i gcéin mé im' thraochadh le búir.</l>
+                <l>A thalaimh na n-éan mbinn, na gcraobh n-úr, gan tlás,</l>
+                <l>Is fada gan réim duit, gan chéim mar ba ghnáth.</l>
+                <l>Fá sgamall, i ndaor-bhroid, gan chéile, gan pháirt,</l>
+                <l>'Sé do chartadh 's do réabadh do léanuigh mo lá.</l>
                 <p>D'fhanadar an oidhche sin i gCill Áirne; is ar maidin lá'r na bhárach bhíodar ag
                     siubhal arís chum Corcaighe. Ar feadh an bhóthair do rinne sé buaidheart do
                     Chormac is chuir sé mor-iongnadh air, an luighead do mheabhruigh na daoine an
@@ -1369,41 +1376,60 @@
                     aisling seo: -</p>
                 <p>AISLING CHORMAIC UÍ CHONAILL.</p>
                 <p>RADHARC AR CHILL ÁIRNE.</p>
-                <p>Do shuidheas ar shliabh, fó ghrian ro-ghléineach, Bhí lóithne giar aniar ag
-                    séideadh, An fraoch bhí úr ó dhrúcht na spéire, Do líon go dlúth gach cuas dá
-                    bhraonaibh;
-                    <pb n="56"/> I gcian im' chluais bhí fuaim gan faoiseamh; Ó sgata
-                    uan go buan ag béicigh, Ó shluaightibh bán-mhionnán ag pléireacht Ar feadh mo
-                    radhairc i n-adharc a chéile; Bhí glór ba bhinn lem' chroidhe ag éanaibh, Do
-                    bhainfeadh a sgíos do'n inntinn chéasda. Guth na bfiadh go dian ag léir-sgread,
-                    Is céad macalla dá bhfreagairt gan aon tsost. Do chuala i n'fhochair sin fothram
-                    céad sruth Gá stealladh go tuínn tar dhruim gach sléibhe, Go neartmhar phreab
-                    gach eas i n-éinfheacht, Ag sgaipeadh fras i bhfad 's ag spréachadh; Chím im'
-                    thimcheall míle maol-chnoc, Ag sáthadh a gceann go teann 'san spéir ghlain; I
-                    gcian uaim thíos bhí coillte aerigh, Stothadh ar a gcinn síorraidhe le
-                    gaothaibh; A gcroinn 's a gcochaill ag cogar le chéile, A nduilleabhar borb gan
-                    fochall i n-aonchor.
-                </p>
-                <p>Do leath mo shúil anonn tar Léan-loch Do bhí neamh-chiúin i gclúid an tsléibhe, A
-                    thonna ar mire go crithneach ag taosgadh, Mar a bheith coire ar theinidh ag
-                    sgéitheadh amach, Ag fiuchadh 's ag bruighin ag rinnceadh is léimrigh Ar bhruach
-                    gach inse míne géar-ghlais'. Do luigh 'na bhrollach neamh-shocair go néamhrach,
-                    Mar chodlóchadh leinbh go miochair fó éadach; Ba mhinic na ndáil tig sgáil na
-                    néalta, Ag fás 's ag feachadh 's ag sgaipeadh gan traochadh. Ba gheal le solas
-                    an mothar ar thaobh Thuirc Ar chaisleán Rosa bhí lonnradh na gréine, Do las an
-                    talamh le taitneamh gan éislinn; Ní raibh ceó ná brón ar aon rud, Ó Mhuc-ros úr
-                    go Com na gcraobh gcas.</p>
-                <p>
-                    <pb n="57"/> Do gheit do rith an chith ó néalaibh, Bhí fothram tóirneach
-                    foirneart éachtach, Do chrith an talamh, do lasadar spéartha, Do rith an lasair
-                    thré shleasabh na sléibhte, Do thuit an fhearthainn 'na freasaibh ar Léan-loch,
-                    Do luigheadar sgamaill 'na srathaibh ar thaobh Tuirc, Do cheil i bpian an ghrian
-                    a héadan, Bhí coimheasgar catha le hanaithe ag éanaibh, Do leath an ceó
-                    dubhrónach daol-dubh Ar tuinn ar talamh 's ar leacain na maol-chnoc.
-                </p>
-                <p>Do bhíodhgas suas óm' shuan gan faoiseamh Le doilbh-chroidhe brúighte, múchta i
-                    ndéaraibh; A bhfeaca im' shuan ba thuar ar Éirinn Is ar a milleadh 'sa sgriosadh
-                    le faolchoin.</p>
+                <!-- Line groups not encoded in Level 0 -->
+                <l>Do shuidheas ar shliabh, fó ghrian ro-ghléineach,</l>
+                <l>Bhí lóithne giar aniar ag séideadh,</l>
+                <l>An fraoch bhí úr ó dhrúcht na spéire,</l>
+                <l>Do líon go dlúth gach cuas dá bhraonaibh;</l>
+                <pb n="56"/>
+                <l>I gcian im' chluais bhí fuaim gan faoiseamh;</l>
+                <l>Ó sgata uan go buan ag béicigh,</l>
+                <l>Ó shluaightibh bán-mhionnán ag pléireacht</l>
+                <l>Ar feadh mo radhairc i n-adharc a chéile;</l>
+                <l>Bhí glór ba bhinn lem' chroidhe ag éanaibh,</l>
+                <l>Do bhainfeadh a sgíos do'n inntinn chéasda.</l>
+                <l>Guth na bfiadh go dian ag léir-sgread,</l>
+                <l>Is céad macalla dá bhfreagairt gan aon tsost.</l>
+                <l>Do chuala i n'fhochair sin fothram céad sruth</l>
+                <l>Gá stealladh go tuínn tar dhruim gach sléibhe,</l>
+                <l>Go neartmhar phreab gach eas i n-éinfheacht,</l>
+                <l>Ag sgaipeadh fras i bhfad 's ag spréachadh;</l>
+                <l>Chím im' thimcheall míle maol-chnoc,</l>
+                <l>Ag sáthadh a gceann go teann 'san spéir ghlain;</l>
+                <l>I gcian uaim thíos bhí coillte aerigh,</l>
+                <l>Stothadh ar a gcinn síorraidhe le gaothaibh;</l>
+                <l>A gcroinn 's a gcochaill ag cogar le chéile,</l>
+                <l>A nduilleabhar borb gan fochall i n-aonchor.</l>
+                <l>Do leath mo shúil anonn tar Léan-loch</l>
+                <l>Do bhí neamh-chiúin i gclúid an tsléibhe,</l>
+                <l>A thonna ar mire go crithneach ag taosgadh,</l>
+                <l>Mar a bheith coire ar theinidh ag sgéitheadh amach,</l>
+                <l>Ag fiuchadh 's ag bruighin ag rinnceadh is léimrigh</l>
+                <l>Ar bhruach gach inse míne géar-ghlais'.</l>
+                <l>Do luigh 'na bhrollach neamh-shocair go néamhrach,</l>
+                <l>Mar chodlóchadh leinbh go miochair fó éadach;</l>
+                <l>Ba mhinic na ndáil tig sgáil na néalta,</l>
+                <l>Ag fás 's ag feachadh 's ag sgaipeadh gan traochadh.</l>
+                <l>Ba gheal le solas an mothar ar thaobh</l>
+                <l>Thuirc Ar chaisleán Rosa bhí lonnradh na gréine,</l>
+                <l>Do las an talamh le taitneamh gan éislinn;</l>
+                <l>Ní raibh ceó ná brón ar aon rud,</l>
+                <l>Ó Mhuc-ros úr go Com na gcraobh gcas.</l>
+                <pb n="57"/>
+                <l>Do gheit do rith an chith ó néalaibh,</l>
+                <l>Bhí fothram tóirneach foirneart éachtach,</l>
+                <l>Do chrith an talamh, do lasadar spéartha,</l>
+                <l>Do rith an lasair thré shleasabh na sléibhte,</l>
+                <l>Do thuit an fhearthainn 'na freasaibh ar Léan-loch,</l>
+                <l>Do luigheadar sgamaill 'na srathaibh ar thaobh Tuirc,</l>
+                <l>Do cheil i bpian an ghrian a héadan,</l>
+                <l>Bhí coimheasgar catha le hanaithe ag éanaibh,</l>
+                <l>Do leath an ceó dubhrónach daol-dubh</l>
+                <l>Ar tuinn ar talamh 's ar leacain na maol-chnoc.</l>
+                <l>Do bhíodhgas suas óm' shuan gan faoiseamh</l>
+                <l>Le doilbh-chroidhe brúighte, múchta i ndéaraibh;</l>
+                <l>A bhfeaca im' shuan ba thuar ar Éirinn</l>
+                <l>Is ar a milleadh 'sa sgriosadh le faolchoin.</l>
                 <p>Tar éis coicthighise tháinig sé chuige féin, is ar dul i bhfeabhas dó tháinig
                     cainnt is greann chuige. Bhíodh muinntear an tighe ag aithris dó éachta an
                     chogaidh, is an t-éirleach do rinneadh le neart faobhair is teineadh ar
@@ -1592,38 +1618,48 @@
                     éis an méid sin a rádh 'na leath-sgéal do chan sé mar leanas: -
                 </p>
                 <p>ÉIRE</p>
-                <p>'Éire, a shearc-bhuime, a bhanaltra shéim, Inis na ngeal-chnoc, na nglaisidhe, 's
-                    na gcraobh, Do bhasgadh 'seadh d'aibig gach peannaid im' thaobh; 'Éire, 'sé do
-                    ghéar-ghoin do chéas mo chroidhe!</p>
-                <p>'Éire, do ghéimhleachaibh céasda ag fuasgailt, 'Éire, na leasg, na tamáilte ag
-                    músgailt, Do'n deóraidhe dubhach, doilbheach, do dhoras ag osgailt; 'Éire, 'sé
-                    do ghéar-ghoin do chéas mo chroidhe!</p>
-                <p>'Éire, ó Ghallaibh fuair basgadh 'gus milleadh, 'San braon brónach, bog, riamh
-                    led' rosgaibh ag sileadh, Do chuid cumhachta imthighthe gan tuairisg, gan
-                    filleadh; 'Éire, 'sé do ghear-ghoin do chéas mo chroidhe.</p>
-                <p>
-                    <pb n="66"/> 'Éire, ní cuimhin leat-sa síothcáin do bhlaiseadh, Is fada fá
-                    thár-bhruid, is fánach fá mhaise, Le sealad ag léir-ghol, gan faoiseamh, gan
-                    taise; 'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!
-                </p>
-                <p>Ba mhinic do shléibhte le caor-theinidh ar lasadh, Ba mhinic do leómhain i
-                    ndeóraidheacht gan chasadh, Ba mhinic do bhuailis go huaigneach do bhasa; 'Éire,
-                    'sé do ghéar-ghoin do chéas mo chroidhe!</p>
-                <p>'Éire, do shaoirse is d'fhírinne sheasaibh, Led' shluagh láidir chalma neartmhar
-                    i dtreasaibh, Gan eagla roimh námhaid is gan beann ar a gcleasaibh; 'Éire, 'sé
-                    do ghéar-ghoin do chéas mo chroidhe!</p>
-                <p>Ba mhinic í d'fhíor-fhuil 'na caoin-sruith dá dortadh, Ba mhinic go tláth thú le
-                    gábhtar is gorta, Cathughadh id' cheóltaibh, ir bróndubh id' phortaibh; 'Éire,
-                    'sé do ghéar-ghoin do chéas mo chroidhe!</p>
-                <p>'Éire, is tú d'fhulaing an milleadh ro-shearbh, Is leat-sa do castaoi an
-                    t-asmhuchán garbh, Is an t-éitheach do sgeitheadh ar do bheó is ar do mharbh;
-                    'Éire, 'sé do ghéar-ghoin do chéas mo chroidhé!</p>
-                <p>'Éire, is mithid duit misneach do ghlacadh, Tá do sgamaill ag sgapaidh, do
-                    shamhradh ag breacadh, Ná mothuigheann tú an léir-theas taréis éirlaighe an
-                    tseaca? 'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</p>
-                <p>Tá bláth ar gach craobh úir, tá sgéimh ar an dtalamh, Tá ceól agus aoibhneas i
-                    gcoilltibh bhí balbh; Go deó, deó arís, ní bheir íseal ná dealbh; 'Éire, sé do
-                    ghéar-ghoin do chéas mo chroidhe,</p>
+                <!-- Line groups not encoded in level 0 -->
+                <l>'Éire, a shearc-bhuime, a bhanaltra shéim,</l>
+                <l>Inis na ngeal-chnoc, na nglaisidhe, 's na gcraobh,</l>
+                <l>Do bhasgadh 'seadh d'aibig gach peannaid im' thaobh;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>'Éire, do ghéimhleachaibh céasda ag fuasgailt,</l>
+                <l>'Éire, na leasg, na tamáilte ag músgailt,</l>
+                <l>Do'n deóraidhe dubhach, doilbheach, do dhoras ag osgailt;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>'Éire, ó Ghallaibh fuair basgadh 'gus milleadh,</l>
+                <l>'San braon brónach, bog, riamh led' rosgaibh ag sileadh,</l>
+                <l>Do chuid cumhachta imthighthe gan tuairisg, gan filleadh;</l>
+                <l>'Éire, 'sé do ghear-ghoin do chéas mo chroidhe.</l>
+                <pb n="66"/>
+                <l>'Éire, ní cuimhin leat-sa síothcáin do bhlaiseadh,</l>
+                <l>Is fada fá thár-bhruid, is fánach fá mhaise,</l>
+                <l>Le sealad ag léir-ghol, gan faoiseamh, gan taise;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>Ba mhinic do shléibhte le caor-theinidh ar lasadh,</l>
+                <l>Ba mhinic do leómhain i ndeóraidheacht gan chasadh,</l>
+                <l>Ba mhinic do bhuailis go huaigneach do bhasa;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>'Éire, do shaoirse is d'fhírinne sheasaibh,</l>
+                <l>Led' shluagh láidir chalma neartmhar i dtreasaibh,</l>
+                <l>Gan eagla roimh námhaid is gan beann ar a gcleasaibh;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>Ba mhinic í d'fhíor-fhuil 'na caoin-sruith dá dortadh,</l>
+                <l>Ba mhinic go tláth thú le gábhtar is gorta,</l>
+                <l>Cathughadh id' cheóltaibh, ir bróndubh id' phortaibh;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>'Éire, is tú d'fhulaing an milleadh ro-shearbh,</l>
+                <l>Is leat-sa do castaoi an t-asmhuchán garbh,</l>
+                <l>Is an t-éitheach do sgeitheadh ar do bheó is ar do mharbh;</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhé!</l>
+                <l>'Éire, is mithid duit misneach do ghlacadh,</l>
+                <l>Tá do sgamaill ag sgapaidh, do shamhradh ag breacadh,</l>
+                <l>Ná mothuigheann tú an léir-theas taréis éirlaighe an tseaca?</l>
+                <l>'Éire, 'sé do ghéar-ghoin do chéas mo chroidhe!</l>
+                <l>Tá bláth ar gach craobh úir, tá sgéimh ar an dtalamh,</l>
+                <l>Tá ceól agus aoibhneas i gcoilltibh bhí balbh;</l>
+                <l>Go deó, deó arís, ní bheir íseal ná dealbh;</l>
+                <l>'Éire, sé do ghéar-ghoin do chéas mo chroidhe,</l>
                 <p>
                     <pb n="67"/> Ba thréan glan an guth do bhí ag Cormac i nós go n-aireochaidhe gach
                     sioladh dár chan go cruinn ar fuaid an chábáin, is síos go bun an ghleanna
