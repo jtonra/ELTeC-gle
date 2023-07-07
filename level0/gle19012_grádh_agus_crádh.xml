@@ -8,8 +8,7 @@
             <titleStmt>
                 <title>Grádh agus Crádh: ELTeC edition</title>
                 <!-- For author names, use standardised names from ainm.ie -->
-                <author ref="viaf:232444194">Ní Fhaircheallaigh, Úna
-                    (1874-1951)
+                <author ref="viaf:232444194">Ní Fhaircheallaigh, Úna (1874-1951)
                     <!-- Surname, Forenames (born-died)-->
                 </author>
                 <respStmt>
@@ -18,15 +17,19 @@
                 </respStmt>
             </titleStmt>
             <extent>
-                <measure unit="words">4679</measure>
+                <measure unit="words">4775</measure>
                 <measure unit="pages">28</measure>
             </extent>
             <publicationStmt>
-                <p>First ELTeC edition
-                    <date>
-                        <!-- date of ELTeC publication here -->
-                    </date>
-                </p>
+                <publisher ref="https://distant-reading.net">COST Action "Distant Reading for
+                    European Literary History" (CA16204)</publisher>
+                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+                <date when="2022-04-08"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+                <!-- Add further collections refs, as available -->
             </publicationStmt>
             <sourceDesc>
                 <bibl type="digitalSource">
@@ -66,10 +69,22 @@
         </profileDesc>
         <revisionDesc>
             <change when="2021-09-30">Initial conversion to ELTeC level 0.</change>
+            <change when="2023-07-05">Updated Publication Statement and front matter.</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <front>
+            <div type="titlepage">
+                <p>Leabhráin and Irisleabhair.&#x2014;I.</p>
+                <p>GRÁDH AGUS CRÁDH:</p>
+                <p>ÚIRSGÉILÍN.</p>
+                <p>Úna Ní Fhaircheallaigh</p>
+                <p>DO SGRÍOBH.</p>
+                <p>Baile Átha Cliath:</p>
+                <p>CONNRADH NA GAEDHILGE.</p>
+                <p>1901.</p>
+                <p>Pinginn.</p>
+            </div>
             <div type="liminal">
                 <p>Ná measadh éinneach gur fíor-sheanchas atá 'sna leabhrán so. Is é atá ann ioná
                     sgéilín; &amp;, d'á bhrígh sin, níor chuireas síos ar gach ní d'ár bhain leis an
@@ -78,7 +93,9 @@
                 <p>Ú. Ní Fh.</p>
             </div>
         </front>
+
         <body>
+            <div type="chapter">
                 <pb n="5"/>
                 <head>GRÁDH &amp; CRÁDH.</head>
                 <p>Suas le céad bliadhan ó shoin do bhí duine dar bh'ainm an Caiptín Ua Raghallaigh
@@ -91,16 +108,14 @@
                     &amp; níor bh'fhada dhóibh mar soin go rabhadar chomh Sacsanach leis na
                     Sacsanchaibh féin. Do rinneadar amhlaidh chum a ndúithche d'fhaghbháil ó
                     bhainríoghain na Sacsan, &amp; ba bheag an meas do bhíodh ag na
-                    fíor-Ghaedhealaibh orra ó shoin i leith. "Ua Raghallaigh na Bainríoghna"
-                    <pb n="6"/> tugadh ar gach duine aca, &amp; do lean an t-ainm céadna d'á gcloinn
+                    fíor-Ghaedhealaibh orra ó shoin i leith. "Ua Raghallaigh na Bainríoghna" <pb
+                        n="6"/> tugadh ar gach duine aca, &amp; do lean an t-ainm céadna d'á gcloinn
                     ó aois go haois anuas go dtí an aimsear atá ann indiu. Ní dhearna, ámh, acht
                     corr-dhuine aca ionntódh ar an gcuma soin, buidheachas mór le Dia is na
                     flaitheasaibh ar a shon, &amp; dá laighead iad an uair úd, is lugha iad anois,
                     óir is tearc duine d'á sliocht atá ar shlighidh na bréige le n-ár linn-ne chum
                     na talmhan do sheal- bhughadh &amp; chum pléisiúir do bhaint as an saidhbhreas
-                    do cheannuigh a sinnsir ar luach a gcreidimh &amp; a dtír-ghrádha do
-                    shéanadh.
-                </p>
+                    do cheannuigh a sinnsir ar luach a gcreidimh &amp; a dtír-ghrádha do shéanadh. </p>
                 <p>Bíodh soin mar atá, bhí an Caiptín ar na daoinibh ba chumhachtaighe d'á raibh
                     'sa' gcondae an uair úd. Do cailleadh a bhean acht d'fhág sí inghean i n-a
                     diaidh, &amp; b'é Eibhlíse an t-ainm do bhí uirri-sean. D'fhás sí suas i n-a
@@ -109,15 +124,13 @@
                     Raghallaigh i n-a chomh- suidhe láimh le Murmaid ar an taoibh eile do Loch
                     Reamhair &amp; bhí sean-aithne ag Eibhlíse air, &amp; tárla go dtugadar grádh
                     d'á chéile &amp; gur bh'amhlaidh do bhí ar feadh tamaill do bhliadhnaibh. Níor
-                    thaitnigh sin le hathair
-                    <pb n="7"/> Eibhlíse, chuige ioná ar aon chor, óir do
+                    thaitnigh sin le hathair <pb n="7"/> Eibhlíse, chuige ioná ar aon chor, óir do
                     bhí fuath aige ar gach duine d'á shloinneadh féin d'ár lean do'n
                     tshean-chreideamh &amp; go háirithe ar mhuinntir Chonaill Uí Raghallaigh as ucht
                     gur bh'iad-san do bhéadh i n-a dtaoiseachaibh os cionn treibhe Ua Raghallaigh,
                     dá mbéadh a gceart aca. Acht cheana, le dul ar aghaidh leis an sgéal, bhí
                     Eibhlíse ag dul isteach i n-a ficheadh bliadhain nuair thárla an sgéal atá d'á
-                    sgríobhadh agam annso.
-                </p>
+                    sgríobhadh agam annso. </p>
                 <p>Lá samhraidh d'á raibh an ghrian ag lonnradh ar an dúthaigh do bhí Inghean Uí
                     Raghallaigh amuigh i n-a haonar i mbáidín bheag ar Loch Reamhair. Níor
                     bh'iongnadh í bheith ag pléidhe leis na maidíbh rámha; ba mhinic di 'gá dhéanamh
@@ -150,7 +163,7 @@
                 <pb n="9"/>
                 <p> Ní luaithe do bhí críoch leis an méid sin ná chualathas glór 'san oileán ag
                     déanamh aithrise ar a glór féin:—</p>
-                <!-- Line groups not encoded in Level 0 --> 
+                <!-- Line groups not encoded in Level 0 -->
                 <l>"Ar neóin nuair théidhim ar thaoibh Suidhe Finn</l>
                 <l>Fa bhrón i gcéin 's gan aon dom' bhuidhin,</l>
                 <l>Cia sheólfadh aon-mhac Dé im' líon</l>
@@ -182,10 +195,8 @@
                     indiu &amp; tá an sgéal go díreach glan mar shaoileas go mbéadh."</p>
                 <p>Do thréig dath an róis a gruadhna ann- soin &amp; d'ionntuigh sí chomh bán le
                     sneachta ar gclos na bhfocal soin di, &amp; do b'amhlaidh d'airigh sí í féin
-                    ioná dá mbéadh nasg iarainn
-                    <pb n="11"/> ag fásgadh a croidhe &amp; ag luighe go
-                    trom timcheall air.
-                </p>
+                    ioná dá mbéadh nasg iarainn <pb n="11"/> ag fásgadh a croidhe &amp; ag luighe go
+                    trom timcheall air. </p>
                 <p>D'fhanadar i n-a dtost i bhfad &amp; ba chráidhte dubrónach a n-inntinn &amp; a
                     n-anam ó sgáil a sgaramhna.</p>
                 <p>Do thosuigh éinín ar seinm cheóil 'sa' gcoill fá thuaidh. Acht an fhuaim sin
@@ -219,8 +230,7 @@
                     aon chor.</p>
                 <p>Do bhí an iomarca bhróin orra, ámh, chum suime do chur 'sna neithibh do thuit
                     amach i n-a dtimcheall &amp; do chromadar ar chomhchaint do dhéanamh arís. Is
-                    iomdha rud ar thrácht-
-                    <pb n="13"/> adar air — ar an tír bhoicht seo &amp; ar a
+                    iomdha rud ar thrácht- <pb n="13"/> adar air — ar an tír bhoicht seo &amp; ar a
                     crádh — ar a ngrádh d'á chéile &amp; ar a gcruadh- chás — ar na laethibh sona do
                     chuaidh thart &amp; ar an aimsir do bhí le teacht. Do bhí a fhios ag Eibhlíse go
                     raibh sé curtha roimhe ag Conall dul tar lear &amp; go bhfanfadh sé ann go
@@ -230,8 +240,7 @@
                     uaidh. Rud eile dhe — dd bhí an t-airgead níos fairsinge tar sáile an tráth soin
                     ioná atá le n-ár linn-ne, &amp; do bhí Conall ag tnúth le roinnt óir do
                     chnuasughadh chum aithfhillte ar an gCaiptín &amp; a rádh leis:— "Táim chomh
-                    saidhbhir leat-sa anois!"
-                </p>
+                    saidhbhir leat-sa anois!" </p>
                 <p>"Dá mbéinn im' fhear shaidhbhir," ar sé le hEibhlíse, "ní bhéadh an oiread soin
                     gráine aige orm &amp; atá. Dubhairt sé liom indiu nár cheart ná oireamhnach do
                     dhuine bhocht suarach mar mise bheith id' dhiaidh-se — &amp; a rádh go bhfuil an
@@ -254,10 +263,8 @@
                     amhlaidh do bhí sé ioná mar chaoineadh os cionn na marbh.</p>
                 <p>Do ghabh eagla Eibhlíse as ucht go raibh a fhios aici nach raibh duine 'sa
                     triocha céad i mbaoghal bháis an tráth soin.</p>
-                <p>"Caithfead dul a bhaile anois a Chonaill;
-                    <pb n="15"/> tá eagla an domhain orm go
-                    bhfuil rud éigin as an mbealach."
-                </p>
+                <p>"Caithfead dul a bhaile anois a Chonaill; <pb n="15"/> tá eagla an domhain orm go
+                    bhfuil rud éigin as an mbealach." </p>
                 <p>"Ó! tarraing do shuaimhneas ort, a stóirín. Is í seo ár gcoinne dhéidheanach,
                     &amp; tá a fhios ag Dia amháin a' bhfeicfimid a chéile arís a choidhche."</p>
                 <p>Do-chluinidís an caoineadh anois &amp; arís i n-a dhiaidh sin &amp; gach uair d'á
@@ -272,11 +279,9 @@
                     mhuinntir &amp; nach bhféadaim dul go dtí a teach féin le n-a feicsint.
                     Caithfidh mé teacht annso le n-a aghaidh sin díreach mar bhitheamhnach gan áird,
                     gan chlú, &amp; b'fhéidir nach bhfeicfead í ar an gcuma soin féin i n-a dhiaidh
-                    seo. Ó! a
-                    <pb n="16"/> Dhia, a Dhia! cá fhad a bhéimid d'ár gcrádhadh &amp; d'ár
+                    seo. Ó! a <pb n="16"/> Dhia, a Dhia! cá fhad a bhéimid d'ár gcrádhadh &amp; d'ár
                     sgriosadh 'sa tír seo, nó an í do thoil-se do chlann féin a bheith gan
-                    saidhbhreas an tshaoghail seo!"
-                </p>
+                    saidhbhreas an tshaoghail seo!" </p>
                 <p>Do bhí Eibhlíse ag déanamh ar an tigh nuair chonnaic sí a sean-bhuime chuici
                     &amp; í ag sníomh a lámh &amp; ag béiceadh ar a láin-dícheall:</p>
                 <p>"Ó! a leinbh mo chroidhe is a chailín na féile! céard do thuit orainn indiu! Ó!
@@ -308,12 +313,10 @@
                     n-a aghaidh — fuarathas a ghunna i ngar do'n tigh &amp; é folamh. Rud eile dhe —
                     as gunna do'n tsórt soin tháinig an piléar do mharbh an Caiptín. Ní raibh amhras
                     ar bith acht i dtaoibh aon neith amháin. Do goideadh as an tigh, an oidhche
-                    chéadna, suim mhór
-                    <pb n="18"/> airgid, &amp; páipéirí do bhain le feirm tháinig
+                    chéadna, suim mhór <pb n="18"/> airgid, &amp; páipéirí do bhain le feirm tháinig
                     isteach ar lámhaibh an Chaiptín féin cúpla bliadhan roimhe sin. Do chuir sé
                     feirmeóir amach as a thigh &amp; as a chuid talmhan — é féin &amp; a chlann —
-                    &amp; shin gan mhórán cíosa aige air.
-                </p>
+                    &amp; shin gan mhórán cíosa aige air. </p>
                 <p>Tug an fear soin mionna go mbéadh a dhíoghaltas aige fós as ucht a ndearna an
                     tighearna talmhan air. Do chuaidh a chlann go hAimeiriocá &amp; do chuaidh sé
                     féin go Condae na Midhe ag iarraidh oibre le déanamh, &amp; tásg ná tuairisg air
@@ -325,14 +328,12 @@
                     nach raibh sí i n-innmhe fiadhnaise do thabhairt os comhair an choisde
                     chrónaire. Do bhí cúirt an dlighidh le bheith ar siubhal i gcionn mhíosa &amp;
                     Conall le bheith d'á fhromhadh ann ag an mbreitheamhain &amp; an gcoisde, &amp;
-                    ar n-éirghe d'Eibhlíse ó n-a leabaidh
-                    <pb n="19"/> thinnis, do chrom sí ar
+                    ar n-éirghe d'Eibhlíse ó n-a leabaidh <pb n="19"/> thinnis, do chrom sí ar
                     chuartughadh amach comharthaí neimhchionntachta a grádha. Níor bh'fhuruisde sin
                     do dhéanamh &amp; gach ní ag dul i n-a coinne. Fuair sí cúntas ar an bhfeirmeóir
                     úd, acht ní raibh aon mhaithe dhi ann. Chonnacathas é 'san Mhuilionn Chearr uair
                     an chluig i ndiaidh an dúnmharbhtha do dhéanamh, &amp; do bhí a lán daoine réidh
-                    le n-a dhearbhadh soin.
-                </p>
+                    le n-a dhearbhadh soin. </p>
                 <p>* * * * *</p>
                 <!-- Change to milestone element for Level 1 -->
                 <p>Do bhí lá na cúirte ag teacht timcheall &amp; do bhí inghean Uí Raghallaigh, aon
@@ -377,12 +378,10 @@
                     'sa tigh mhór. Chuala mé annsin, &amp; chuala daoine nach mé, freisin, fuaim mar
                     dá mbéadh capall ar sodar. Stop sí go tapaidh mar sin, &amp; char chuireamar aon
                     tshuim ann go deachaidh mé chomh fada leis na stáblaíbh, &amp; céard do bhí ann
-                    acht Bran &amp; é ag crith &amp; ag cur alluis &amp; a chuid súl, mar
-                    <pb n="22"
+                    acht Bran &amp; é ag crith &amp; ag cur alluis &amp; a chuid súl, mar <pb n="22"
                     /> adéarthá, ag preabadh amach as a cheann le huathbhás. Ba bheag nár thuit mé
                     féin le faitcheas, óir bhíos cinnte go bhfaca an capall bocht taidhbhse nó taise
-                    feadh na hoidhche."
-                </p>
+                    feadh na hoidhche." </p>
                 <p>Do chuir Pádruig comhartha na croiche air féin arís &amp; do bhreathnuigh sé go
                     héasgaidh i n-a thimcheall sul mar lean sé ar an sgéal:—</p>
                 <p>"Féach! a bhean uasal! Is dearbhtha atáim go dtáinig d'athair-se ar a ais ó
@@ -395,9 +394,8 @@
                     n-a thaoibh, &amp; gabhaim párdún agat, a leinbh, fa nach dubhras an mhéid sin
                     leat go nuige seo. Níor mhaith liom imshníomh do chur ort-sa, &amp; sin gan aon
                     tairbhe dhuit."</p>
-                <p>"Nár bh'é an truagh nár innsis an sgéal
-                    <pb n="23"/> soin damh roimhe seo, acht, 'is fearr mall ná ró-mhall.'"
-                </p>
+                <p>"Nár bh'é an truagh nár innsis an sgéal <pb n="23"/> soin damh roimhe seo, acht,
+                    'is fearr mall ná ró-mhall.'" </p>
                 <p>Annsin do mhínigh sí do'n tshean-fhear nár thaidhbhse nó thaise do bhí ann, do
                     réir a baramhla-sa, acht duine 'ga raibh baint aige leis an gCaiptín do
                     mharbhadh. Do chroith seisean a cheann &amp; do dhún sé a bhéal gan focal do
@@ -432,13 +430,11 @@
                     soin.</p>
                 <p>Do bhí an breitheamh le breitheamhnas bháis do thabhairt air, acht go díreach
                     glan mar do bhí sé ag cur an bhairéidín duibh ar a cheann do rith fear isteach
-                    'sa' seomra &amp; é ag cur alluis. Tug sé sméideadh do'n
-                    <pb n="25"/>
+                    'sa' seomra &amp; é ag cur alluis. Tug sé sméideadh do'n <pb n="25"/>
                     bhreitheamh &amp; do stad seisean do'n obair do bhí idir lámhaibh aige.
                     Sean-fhear do b'eadh é. Do b'fhurus an oiread soin do thabhairt fa deara, mar do
                     bhí na ruic le feicsin i n-a éadan &amp; an ghruag bhán ag tuitim anuas ar a
-                    mhuineál, ar ndul suas ar bhord na mionna dhó.
-                </p>
+                    mhuineál, ar ndul suas ar bhord na mionna dhó. </p>
                 <p>Do cuireadh an leabhar i n-a láimh. Níor fhéad sé fiú an fhocail do rádh go ceann
                     tamaill. Annsin do thosuigh sé ar an sgéal chéadna d'innis Pádruig d' Eibhlíse,
                     óir b'é Pádruig féin do bhí ann. Nuair do bhí críoch leis, d'ionntuigh sé ar na
@@ -449,8 +445,7 @@
                     mhoill, &amp; leis sin chuadhas go dtí an Muileann Cearr a gan-fhios d'éinneach.
                     Fuaras sgéala i gcomhar- sanacht an bhaile sin ar an bhfeilmeóir do cuireadh
                     amach as a thigh cúpla bliadhan ó shoin. Bhi sé imthighthe go hAimeiriocá, acht
-                    fuair mé an páipéar so i n-a sheomra.
-                    <pb n="26"/> Féach! Is páipéar bhaineas
+                    fuair mé an páipéar so i n-a sheomra. <pb n="26"/> Féach! Is páipéar bhaineas
                     leis an bhfeirm úd é. Rinne sé dearmad air, is dócha. Chuala mé ó roinnt mhaith
                     dhaoine go bhfacathas 'san Mhuilionn Chearr é faoi chionn uaire i ndiaidh
                     aimsire marbhtha mo mhaighisdir. 'Sé sin le rádh gur bh'fhéidir dó ‘alibí’ do
@@ -461,19 +456,16 @@
                     dhruim na talmhan a dtig leis a dhéanamh soin, 'sé Bran é.’ Chuaidh mé, leis
                     sin, ar a mhuin &amp; as go bráth linn. Bhíomar 'san Mhuilionn Chearr cúig nóim-
                     int roimh an uair, &amp; mo lámh dhaoibh nach bhfuil capall eile 'sa' gcruinne
-                    do dhéanfadh é taoibh istigh do'n aimsir chéadna."
-                </p>
+                    do dhéanfadh é taoibh istigh do'n aimsir chéadna." </p>
                 <p>Ar n-a chlos soin dóibh, d'éirigh "hurrú" 'sa' gcúirt &amp; do chromadar ar
                     bhualadh bos &amp; ar dhéanamh chomhgháirdeachais le chéile as ucht na sgéala
                     soin.</p>
                 <p>Níor bh'fhada, i n-a dhiaidh sin, gur saoradh Conall &amp; an oidhche d'fhill sé
-                    ar a ais chum
-                    <pb n="27"/> a dhúithche féin do lasadh teinnte cnámh ag na
+                    ar a ais chum <pb n="27"/> a dhúithche féin do lasadh teinnte cnámh ag na
                     daoinibh ar gach cnoc 'sa' gcondae le n-a mbród &amp; a lúthgháir do thaisbeánt
                     d'á dtaois- each ionmhuin féin — acht, ba chuma le Conall bhocht an gáirdeachas
                     soin &amp; a chroidhe go trom aithmhéileach aige. Níor chuir sé aon tshuim i rud
-                    ar bith do'n tshaghas soin.
-                </p>
+                    ar bith do'n tshaghas soin. </p>
                 <p>"Ag so an gleó 's an brón is baoithe; Ag so an tuirse 's an doilghe is
                     daoire."</p>
                 <p>Badh mhian liom críoch mhaith do chur ar an sgéal so. Dob' áil liom a rádh gur
@@ -485,10 +477,8 @@
                     an lá ag imtheacht thall &amp; i bhfus &amp; í ag baint phamhsaer &amp; ag
                     gabháil fhuinn. D'éirigheadh na deóra i súilibh Chonaill gach tráth d'á
                     gcloiseadh sé na sean-amhráin d'á ngabháil. Níor fhéad sé an t-amharc so
-                    d'fhulang fa dheireadh. D'fhág sé slán &amp; céileabhradh ag a aon-mhnaoi
-                    <pb
-                        n="28"/> le dul 'san arm le haghaidh troda do dhéanamh ar son Éireann.
-                </p>
+                    d'fhulang fa dheireadh. D'fhág sé slán &amp; céileabhradh ag a aon-mhnaoi <pb
+                        n="28"/> le dul 'san arm le haghaidh troda do dhéanamh ar son Éireann. </p>
                 <p>Do thuit sé i gcath Bhaile na hInse suas le céad bliadhan ó shoin, &amp; níor
                     fhan a ghrádh i bhfad i n-a dhiaidh.</p>
                 <p>Do cuireadh í 'san oileán áluinn úd i gceart-lár an locha &amp; 'sé mar adeir
@@ -499,6 +489,7 @@
                 <l>Dam is eól a sgeól do sgaoileadh,</l>
                 <l>Dam is dual a ruaig do ríomhadh,</l>
                 <l>Ó's dam is cóir a ghlóir do chaoineadh."</l>
+            </div>
         </body>
     </text>
 </TEI>
